@@ -8,3 +8,4 @@ fun_fact = "I love Machine Learning!"
 print(f"Hello! I'm {name}.")
 print(f"Fun fact: {fun_fact}")
 print("I'm excited to learn AI/ML!")
+
